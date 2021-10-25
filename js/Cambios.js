@@ -1,4 +1,3 @@
-
-$('.optain').on('click',function(){
-    console.log('hello');
-});
+$(".option").click(function(){
+    console.log('ded');
+  });
