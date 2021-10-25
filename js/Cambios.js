@@ -1,4 +1,5 @@
-$(".optain").click(function(){
+
+
+  $(".optain").on('click', function(){
     console.log('ded');
   });
-
