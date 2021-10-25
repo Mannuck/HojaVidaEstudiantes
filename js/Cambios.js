@@ -1,3 +1,4 @@
-$('#optain').on('click',function(){
-    console.log('aca estoy');
+
+$('.optain').on('click',function(){
+    console.log('hello');
 });
