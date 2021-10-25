@@ -1,5 +1,5 @@
 
 
-  $(".optain").on('click', function(){
+  $("#n1").on('click', function(){
     console.log('ded');
   });
